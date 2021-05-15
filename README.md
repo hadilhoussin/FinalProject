@@ -1,2 +1,2 @@
 # FinalProject
-This repo contains the final project for social data viz. 2021. I had trouble publishing the website, so I made a giff with it instead.
+This repo contains the final project for 'Social data analysis and visualization Spring 21'. I had some issues publishing the website, so I made a giff with it instead.
